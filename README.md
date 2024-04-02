@@ -1,4 +1,4 @@
 <h1>STEPS TO RUN:</h1>
-step 1: clone or download the code.
-step 2: run "npm install".
-step 3: run "npm run dev" to open the application.
+<bold>step 1:</bold> clone or download the code.<br>
+<bold>step 2:</bold> run "npm install".<br>
+<bold>step 3:</bold> run "npm run dev" to open the application.
